@@ -4,7 +4,7 @@ import java.util.*;
 import org.hibernate.*;
 import persistence.*;
 
-//Inicio de la clase
+//Class start
 public class HelloWorld {
 	public static void main(String[] args) {
 		// First unit of work
